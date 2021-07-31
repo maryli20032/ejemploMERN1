@@ -1,0 +1,17 @@
+para correr el programa
+colocar en la terminal:
+
+	npm run start
+
+
+
+--------------------------------------------------------------------------
+
+si voy a seguir trabajando en el proyecto debo escribir en la consola:
+	npm run dev
+y abrir otra consola para escribir:
+	npm run webpack
+
+el primer comando usa nodemon y sirve para reiniciar el servidor cada vez que
+se guarda un cambio, el segundo comando ejecuta webpack para que se traduzca 
+el codigo de react en html css y js puro.
